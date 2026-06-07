@@ -57,10 +57,10 @@ The dashboard consists of the following visualizations:
 ## Dashboard Preview
 
 **Page 1 — Overview Dashboard**
-![Dashboard Page 1](dashboard_page1.png.png)
+![Dashboard Page 1](dashboard_page1.png)
 
 **Page 2 — Detail & Tree Map**
-![Dashboard Page 2](dashboard_page2.png.png)
+![Dashboard Page 2](dashboard_page2.png)
 
 ---
 
